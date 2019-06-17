@@ -46,8 +46,8 @@ small {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #000;
-    text-decoration    : underline;
+    color              : #086C61;
+    text-decoration    : wavy underline;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
     -o-transition      : all 0.3s ease 0s;
@@ -129,15 +129,15 @@ ul {
  * -------------------*/
 
 .bg-0 {
-    background-color : #fff;
+    background-color : #ACCCCB;
     }
 
 .bg-1 {
-    background-color : #93e1d8;
+    background-color : #FEC64F;
     }
 
 .bg-2 {
-    background-color : #f984ab;
+    background-color : #F7ECDA;
     }
 
 .bg-3 {
