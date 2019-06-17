@@ -200,3 +200,8 @@ ul {
 .content-item {
     margin-bottom : 20px;
     }
+
+.responsive {
+  max-width: 75%;
+  height: auto;
+}
