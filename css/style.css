@@ -57,25 +57,8 @@ small {
 a {
     color              : #086C61;
     text-decoration    : bold;
-    -webkit-transition : all 0.3s ease 0s;
-    -moz-transition    : all 0.3s ease 0s;
-    -o-transition      : all 0.3s ease 0s;
-    transition         : all 0.3s ease 0s;
     }
 
-a,
-a:active,
-a:focus,
-a:active {
-    text-decoration : bold;
-    outline         : none
-    }
-
-a:hover,
-a:focus {
-    text-decoration : bold;
-    color           : #000;
-    }
 
 p {
     margin-bottom : 0px;
