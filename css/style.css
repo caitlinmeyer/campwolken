@@ -22,7 +22,7 @@
     font-style: normal;
 }
 
-body, h1, h2, h3, h4, h5, h6, small {
+body, h2, h3, h4, h5, h6, small {
     font-family : 'Univers LT Std','Helvetica Neue','Helvetica',sans-serif;
     font-size   : 20px;
     line-height : 1.6em;
@@ -32,7 +32,16 @@ body, h1, h2, h3, h4, h5, h6, small {
     margin-bottom: 0px;
     }
 
-h1,h2 {
+h1 {
+    font-family : 'Pacifico',sans-serif;
+    font-size   : 36px;
+    line-height : 1.6em;
+    color       : #79280C;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    }
+
+h2 {
     font-weight : bold;
     margin-bottom: 20px;
     letter-spacing: 0.4px;
@@ -47,7 +56,7 @@ small {
  *------------------------------------------*/
 a {
     color              : #086C61;
-    text-decoration    : wavy underline;
+    text-decoration    : bold;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
     -o-transition      : all 0.3s ease 0s;
