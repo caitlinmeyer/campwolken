@@ -22,7 +22,7 @@
     font-style: normal;
 }
 
-body, h2, h3, h4, h5, h6, small {
+body, h3, h4, h5, h6, small {
     font-family : 'Univers LT Std','Helvetica Neue','Helvetica',sans-serif;
     font-size   : 20px;
     line-height : 1.6em;
@@ -42,9 +42,11 @@ h1 {
     }
 
 h2 {
-    font-weight : bold;
-    margin-bottom: 20px;
-    letter-spacing: 0.4px;
+    font-family : 'Rubik Mono One";
+    font-size : 30px
+     line-height : 1.6em;
+    color       : #086C61;
+    margin-bottom: 10px;
     }
 
 small {
