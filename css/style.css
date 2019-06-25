@@ -42,7 +42,7 @@ h1 {
     }
 
 h2 {
-    font-family : 'Rubik Mono One";
+    font-family : 'Rubik Mono One';
     font-size : 30px
      line-height : 1.6em;
     color       : #086C61;
@@ -56,7 +56,10 @@ small {
 /* --------------------------------------
  * LINK STYLE
  *------------------------------------------*/
-a {
+a,
+a:active, 
+a:hover, 
+a:focus {
     color              : #086C61;
     text-decoration    : bold;
     }
