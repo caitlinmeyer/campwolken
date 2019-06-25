@@ -62,6 +62,7 @@ a:hover,
 a:focus {
     color              : #086C61;
     text-decoration    : bold;
+    font-style : bold;
     }
 
 
