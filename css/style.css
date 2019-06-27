@@ -203,3 +203,8 @@ ul {
   max-width: 90%;
   height: auto;
 }
+
+.responsive-photo {
+    max-width: 60%;
+        height: auto;
+}
